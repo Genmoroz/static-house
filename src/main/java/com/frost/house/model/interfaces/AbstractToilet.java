@@ -1,4 +1,4 @@
-package com.frost.house.dao.interfaces;
+package com.frost.house.model.interfaces;
 
 import com.frost.house.support.interfaces.AbstractSanitary;
 

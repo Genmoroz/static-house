@@ -1,6 +1,6 @@
-package com.frost.house.dao.implementations;
+package com.frost.house.model.implementations;
 
-import com.frost.house.dao.interfaces.AbstractHouse;
+import com.frost.house.model.interfaces.AbstractHouse;
 
 /**
  * Main house for this project.

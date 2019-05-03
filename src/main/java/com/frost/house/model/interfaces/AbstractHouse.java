@@ -1,4 +1,4 @@
-package com.frost.house.dao.interfaces;
+package com.frost.house.model.interfaces;
 
 /**
  * The contract for all houses.
